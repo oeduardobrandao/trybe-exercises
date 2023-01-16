@@ -1,3 +1,1 @@
-# Exercícios da Trybe
-
-Repositório para armazenar os exercícios feitos ao longo do curso
+Pasta dos exercícios do dia 01 de Introdução a HTML e CSS.
